@@ -1,21 +1,33 @@
-<h1 align="left">Hey 👋, I'm Cemal Taşkın!</h1>
+<h1 align="center">Hey 👋, I'm Cemal Taşkın!</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I am a Software Developer. I love learning and researching new things. I am developing myself in the field of web development technologies and devops technologies.</p>
+<p align="left">I'm from Turkey<br><br>I am a Software Developer who loves learning and researching new things. I am currently developing my skills in the fields of web development technologies and DevOps technologies.</p>
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">📫 Contact With Me</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <a href="https://www.linkedin.com/in/cemal-tkn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
@@ -44,16 +56,14 @@
 
 ###
 
+<h3 align="left">🔥   My Stats</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CemalTkn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CemalTkn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=CemalTkn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CemalTkn.CemalTkn&"  />
 </div>
 
 ###
